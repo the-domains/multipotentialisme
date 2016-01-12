@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Multipotentialisme]]></title>
-        <description><![CDATA[Multipotentialisme]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Laisser la folie créative s'exprimer dans l'invention et l'innovation - lifehacking]]></title>
+        <description><![CDATA[Laisser la folie créative s'exprimer dans l'invention et l'innovation - lifehacking]]></description>
+        <link>https://thegrid.ai/multipotentialisme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 22:35:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 22:42:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/multipotentialisme/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/746505b7-bd4d-482f-a2e1-4c252486bdb8.jpg">]]></description>
-            <link>undefined9521aadc-51c4-475c-af6e-66f57ee2637e/index.html</link>
+            <link>https://thegrid.ai/multipotentialisme/9521aadc-51c4-475c-af6e-66f57ee2637e/index.html</link>
             <guid isPermaLink="false">9521aadc-51c4-475c-af6e-66f57ee2637e</guid>
-            <pubDate>Tue, 12 Jan 2016 22:35:16 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 22:42:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
